@@ -17,7 +17,7 @@ Not useful data was removed (no traded, null values, etc).
 
 We performed a PCA analysis to reduce the basis to 3 dimensions with PCA algorithm. 
 
-### 3) Elbow Curva
+### 3) Elbow Curve
 
 We created and Elbow curve to determine that optimal number of clusters is 4. 
 
